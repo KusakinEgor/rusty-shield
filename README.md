@@ -7,8 +7,10 @@
 </h1>
 
 <div align="center" style="margin-bottom: 1em;">
+
   ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
 </div>
 
 ---
