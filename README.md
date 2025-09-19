@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold; margin: 1em 0;">
   <a name="logo">
-    <img src="pictures/logo.png" alt="rusty-shield" width="auto" height="350"/>
+    <img src="pictures/rusty.png" alt="rusty-shield" width="350" height="350"/>
   </a>
   <br/>
   <strong>Rusty-Shield</strong>
